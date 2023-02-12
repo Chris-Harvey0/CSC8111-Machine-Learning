@@ -16,3 +16,9 @@ This random forest classifier obtained an accuracy of 77%.
 Because this model was simple to implement I decided to implement another style of model and compare results.
 I chose to implement a long short term memory model which is commonly used for natural language processing.
 This model gave improved accuracies over the random forest model of 78%.
+## Reflection
+In this project I developed machine learning models for two different datasets.
+The model for the Tweets dataset managed to obtain relatively good results of 78%.
+However, for the image dataset 53% was the maximum accuracy obtained.
+I was still very happy with this accuracy as it beat the average accuracy from the machine learning competition it was used for.
+For future work I would aim to improve this accuracy by using various image augmentation techniques to improve accuracy further.
